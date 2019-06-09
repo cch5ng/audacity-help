@@ -6,7 +6,7 @@ nav_order: 2
 
 # Setup
 
-![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity_help/images/audacity_screen_setup.jpg)*Audacity screenshot with setup fields highlighted*
+![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_setup.jpg)*Audacity screenshot with setup fields highlighted*
 
 
 ------
