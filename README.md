@@ -1,21 +1,13 @@
-# Audacity Quick Start Guide
+# audacity-help
 
 ## Purpose
 
-This is a Quick Start guide for using Audacity.
+This is a personal project for my technical writing portfolio. It is not intended as a substitute for the Audacity online documentation.
 
+## Credits
 
-## Use Cases
+This project was compiled with jekyll and styled using the theme, [just-the-docs](https://github.com/pmarsceill/just-the-docs).
 
-These are a couple of typical workflows when working with audio:
+## Resources
 
-* Record, play, edit, export
-
-* Play/review, edit, export
-
-
-## What the guide does not do
-
-This is not a comprehensive guide about professional audio editing and effects. But it is geared to help you get going with practical features for creating and editing audio content.
-
-For example, there are a number of effects and plug-in's which are not described but the Audacity online documentation may help with those.
+For a list of resources on jekyll, using jekyll themes, creating animated gifs, and creating video tutorials for software, see [this gist](https://gist.github.com/cch5ng/7d110fb20689a1d31bccd033ce45d610).

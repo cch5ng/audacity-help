@@ -6,7 +6,7 @@ nav_order: 4
 
 # Playing Audio
 
-![Audacity screenshot with player controls highlighted](https://cch5ng.github.io/audacity_help/images/audacity_screen_player.jpg)*Audacity screenshot with player controls highlighted*
+![Audacity screenshot with player controls highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_player.jpg)*Audacity screenshot with player controls highlighted*
 
 
 ------

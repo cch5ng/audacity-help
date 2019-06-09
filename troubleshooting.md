@@ -16,5 +16,5 @@ nav_order: 7
 
 * Generally the most common issue has been missing the required library for exporting to either MP3 or FFmpeg formats. It is possible that you actually downloaded the library but Audacity cannot find the correct path to the library file. You might need to search your hard drive for the file or download the file(s) again and make special note of the installation path.
 
-   * See [Exporting Audio](https://cch5ng.github.io/audacity_help/exporting.html)
+   * See [Exporting Audio](https://cch5ng.github.io/audacity-help/exporting.html)
 
