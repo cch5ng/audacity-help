@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Audacity Quick Start Guide
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a Quick Start guide for using Audacity.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Use Cases
 
-```markdown
-Syntax highlighted code block
+These are a couple of typical workflows when working with audio:
 
-# Header 1
-## Header 2
-### Header 3
+* Record, play, edit, export
 
-- Bulleted
-- List
+* Play/review, edit, export
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## What the guide does not do
 
-[Link](url) and ![Image](src)
-```
+This is not a comprehensive guide about professional audio editing and effects. But it is geared to help you get going with practical features for creating and editing audio content.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For example, there are a number of effects and plug-in's which are not described but the Audacity online documentation may help with those.
