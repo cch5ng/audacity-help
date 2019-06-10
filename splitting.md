@@ -7,7 +7,11 @@ nav_order: 2
 
 # Splitting Audio
 
-**TODO need animated gif**
+
+![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_split.jpg)*Audacity screenshot with setup fields highlighted*
+
+
+------
 
 
 After trimming the middle of an audio file, you can move one section of audio over to fill in the gap in the middle.
