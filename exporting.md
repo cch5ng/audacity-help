@@ -2,7 +2,6 @@
 layout: default
 title: Exporting Audio
 nav_order: 6
-has_children: true
 ---
 
 # Exporting Audio
