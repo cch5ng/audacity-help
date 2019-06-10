@@ -8,7 +8,7 @@ nav_order: 2
 # Splitting Audio
 
 
-![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_split.jpg)*Audacity screenshot with setup fields highlighted*
+![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_split.jpg)*Audacity screenshot with Time Shift Tool control highlighted*
 
 
 ------

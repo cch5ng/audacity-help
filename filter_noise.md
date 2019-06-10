@@ -7,7 +7,7 @@ nav_order: 3
 
 # Filter Background Noise
 
-![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_filter_anim.gif)*Audacity screenshot with setup fields highlighted*
+![Audacity screenshot with setup fields highlighted](https://cch5ng.github.io/audacity-help/images/audacity_screen_filter_anim.gif)*Audacity animated gif for filtering noise*
 
 
 ------
